@@ -8,9 +8,9 @@ description: >-
 
 # Hobbies
 
-* Chinese calligraphy: self-made [bookmarks](https://github.com/xiehuiyuan/xiehuiyuan.github.io/blob/master/img/bookmark.JPG) (for fun), traditional Chinese calligraphy (with brush pens).
+* Chinese calligraphy: self-made [bookmarks](http://hxie.me/img/bookmark.JPG) (for fun), traditional Chinese calligraphy (with brush pens).
 
-* I'm also working on my [English handwriting](https://github.com/xiehuiyuan/xiehuiyuan.github.io/blob/master/img/xmas.JPG) now.
+* I'm also working on my [English handwriting](http://hxie.me/img/xmas.JPG) now.
 
 * Ikebana.
 
