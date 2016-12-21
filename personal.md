@@ -8,9 +8,9 @@ description: >-
 
 # Hobbies
 
-* Chinese calligraphy: self-made ![bookmarks](http://img/bookmark.png) (for fun), traditional Chinese calligraphy (with brush pens).
+* Chinese calligraphy: self-made [bookmarks](http://img/bookmark.png) (for fun), traditional Chinese calligraphy (with brush pens).
 
-* I'm also working on my ![English handwriting](http://img/xmas.png) now.
+* I'm also working on my [English handwriting](http://img/xmas.png) now.
 
 * Ikebana.
 
