@@ -1,2 +1,1 @@
-# xiehuiyuan.github.io
-Huiyuan Xie's Homepage
+This repository contains the files for Huiyuan Xie's academic homepage.
