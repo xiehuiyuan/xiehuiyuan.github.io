@@ -15,7 +15,9 @@ image:
 
 Hi! I am a Master student at Beihang University, China. Currently, I work on Belief Revision under the supervision of [Prof. Wei Li](http://www.nlsde.buaa.edu.cn/~liwei/). Before this, I received my B.Eng. degree in Computer Science from School of Computer Science & Engineering, Beihang University in July 2014.
 
-My research interests machine translation.  My CV is available [here](cv.html), and my previous
+My research interests machine translation.  My CV is available [here](data/cv/hxie-cv.pdf), and my previous
 papers can be found on my [research page](research.html).
+
+[Here](personal.html) is some other information about me.
 
 I can be reached via email at `xiehuiyuan AT buaa.edu.cn`.
