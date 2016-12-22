@@ -1,2 +1,1 @@
-This repository contains the files for Huiyuan Xie's homepage.
-
+Code for my personal homepage at http://hxie.me
