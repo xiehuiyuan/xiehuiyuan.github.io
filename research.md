@@ -15,5 +15,5 @@ description: >-
 
 # Ongoing Research
 
-* "Computing maximal contractions for decidable fragments of FOL."
+* "Computing maximal contractions for decidable fragments of first-order formulas."
 
