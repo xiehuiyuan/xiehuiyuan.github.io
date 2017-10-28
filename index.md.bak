@@ -6,6 +6,10 @@ description: >-
     Huiyuan Xie is a graduate student at Beihang University who studies mathematical logic and belief revision.
 textcol: col-sm-8
 imagecol: col-sm-4
+image:
+    src: img/self.jpg
+    alt: Photo of Huiyuan Xie.
+    title: Photo of me by He Zhang.
 
 ---
 
